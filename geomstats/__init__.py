@@ -20,3 +20,4 @@ import geomstats.geometry.skew_symmetric_matrices
 import geomstats.geometry.spd_matrices
 import geomstats.geometry.special_euclidean
 import geomstats.geometry.special_orthogonal  # NOQA
+import geomstats.geometry.functions
